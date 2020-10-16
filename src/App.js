@@ -1,10 +1,10 @@
 import React from 'react';
-import Counter from './components/Counter';
+import Append from './components/Append';
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <Append />
     </div>
   );
 }
